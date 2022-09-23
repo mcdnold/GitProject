@@ -1,4 +1,4 @@
-package org.test;
+ package org.test;
 
 public class Sample {
 
@@ -9,9 +9,13 @@ public class Sample {
 		
 		System.out.println("java");
 		
+
+			String s = "python";
+
+		System.out.println(s.charAt(1));
 		
-		
-		int age = 25;
-		System.out.println("My age is :"+age);
+			int age = 25;
+			
+			System.out.println("My age is :"+age);
 	}
 }
