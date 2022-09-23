@@ -8,5 +8,10 @@ public class Sample {
 		System.out.println(123);
 		
 		System.out.println("java");
+		
+		
+		
+		int age = 25;
+		System.out.println("My age is :"+age);
 	}
 }
